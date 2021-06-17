@@ -76,7 +76,7 @@
     "ember-service-worker-update-notify": "^3.0.0",
     "ember-simple-auth": "^3.0.1",
     "ember-source": "~3.23.1",
-    "ember-template-lint": "^2.14.0",
+    "ember-template-lint": "^3.5.0",
     "eslint": "^7.14.0",
     "eslint-plugin-ember": "^6.10.0",
     "eslint-plugin-node": "^10.0.0",
